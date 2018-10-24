@@ -16,7 +16,7 @@ namespace FormsAppClient
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new RegistrerForm());
+            Application.Run(new LoginForm());
         }
     }
 }
